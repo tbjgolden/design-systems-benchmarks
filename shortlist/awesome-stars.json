@@ -1,0 +1,376 @@
+{
+  "data": {
+    "a": {
+      "nameWithOwner": "adobe/react-spectrum",
+      "stargazerCount": 4577
+    },
+    "b": {
+      "nameWithOwner": "alfa-laboratory/arui-feather",
+      "stargazerCount": 576
+    },
+    "c": {
+      "nameWithOwner": "ant-design/ant-design",
+      "stargazerCount": 6531
+    },
+    "d": {
+      "nameWithOwner": "appearhere/bloom",
+      "stargazerCount": 50
+    },
+    "e": {
+      "nameWithOwner": "aragon/ui",
+      "stargazerCount": 253
+    },
+    "f": {
+      "nameWithOwner": "artsy/palette",
+      "stargazerCount": 166
+    },
+    "g": {
+      "nameWithOwner": "RocketCommunicationsInc/astro-components",
+      "stargazerCount": 5
+    },
+    "h": {
+      "nameWithOwner": "AT-UI/at-ui",
+      "stargazerCount": 2307
+    },
+    "i": {
+      "nameWithOwner": "audi/audi-ui",
+      "stargazerCount": 242
+    },
+    "j": {
+      "nameWithOwner": "gctools-outilsgc/aurora-design-system",
+      "stargazerCount": 78
+    },
+    "k": {
+      "nameWithOwner": "govau/design-system-components",
+      "stargazerCount": 705
+    },
+    "l": {
+      "nameWithOwner": "autoguru-au/overdrive",
+      "stargazerCount": 32
+    },
+    "m": {
+      "nameWithOwner": "Skyscanner/backpack",
+      "stargazerCount": 403
+    },
+    "n": {
+      "nameWithOwner": "barnardos/design-system",
+      "stargazerCount": 28
+    },
+    "o": {
+      "nameWithOwner": "moroshko/basis",
+      "stargazerCount": 45
+    },
+    "p": {
+      "nameWithOwner": "takenet/blip-toolkit",
+      "stargazerCount": 3
+    },
+    "q": {
+      "nameWithOwner": "laboratoriobridge/bold",
+      "stargazerCount": 51
+    },
+    "r": {
+      "nameWithOwner": "palantir/blueprint",
+      "stargazerCount": 17711
+    },
+    "s": {
+      "nameWithOwner": "seek-oss/braid-design-system",
+      "stargazerCount": 941
+    },
+    "t": {
+      "nameWithOwner": "buildit/gravity-ui-web",
+      "stargazerCount": 19
+    },
+    "u": {
+      "nameWithOwner": "buzzfeed/solid",
+      "stargazerCount": 128
+    },
+    "v": {
+      "nameWithOwner": "bumbag/bumbag-ui",
+      "stargazerCount": 838
+    },
+    "w": {
+      "nameWithOwner": "eBay/skin",
+      "stargazerCount": 127
+    },
+    "x": {
+      "nameWithOwner": "enigma-io/boundless",
+      "stargazerCount": 241
+    },
+    "y": {
+      "nameWithOwner": "mineral-ui/mineral-ui",
+      "stargazerCount": 535
+    },
+    "z": {
+      "nameWithOwner": "andcards/binary-ui",
+      "stargazerCount": 67
+    },
+    "aa": {
+      "nameWithOwner": "rei/rei-cedar",
+      "stargazerCount": 102
+    },
+    "ab": {
+      "nameWithOwner": "chakra-ui/chakra-ui",
+      "stargazerCount": 17648
+    },
+    "ac": {
+      "nameWithOwner": "cloudflare/cf-ui",
+      "stargazerCount": 1302
+    },
+    "ad": {
+      "nameWithOwner": "CityOfBoston/digital",
+      "stargazerCount": 16
+    },
+    "ae": {
+      "nameWithOwner": "coopdigital/design-system",
+      "stargazerCount": 4
+    },
+    "af": {
+      "nameWithOwner": "contentful/forma-36",
+      "stargazerCount": 144
+    },
+    "ag": {
+      "nameWithOwner": "Decathlon/vitamin-web",
+      "stargazerCount": 83
+    },
+    "ah": {
+      "nameWithOwner": "decentraland/ui",
+      "stargazerCount": 72
+    },
+    "ai": {
+      "nameWithOwner": "elastic/eui",
+      "stargazerCount": 2746
+    },
+    "aj": {
+      "nameWithOwner": "segmentio/evergreen",
+      "stargazerCount": 10695
+    },
+    "ak": {
+      "nameWithOwner": "react-figma/figma-ui-components",
+      "stargazerCount": 10
+    },
+    "al": {
+      "nameWithOwner": "Financial-Times/origami",
+      "stargazerCount": 2
+    },
+    "am": {
+      "nameWithOwner": "Finastra/finastra-design-system",
+      "stargazerCount": 47
+    },
+    "an": {
+      "nameWithOwner": "FirefoxUX/photon",
+      "stargazerCount": 238
+    },
+    "ao": {
+      "nameWithOwner": "bloombergindustry/fishtank-vue",
+      "stargazerCount": 14
+    },
+    "ap": {
+      "nameWithOwner": "primer/css",
+      "stargazerCount": 10225
+    },
+    "aq": {
+      "nameWithOwner": "material-components/material-components",
+      "stargazerCount": 884
+    },
+    "ar": {
+      "nameWithOwner": "alphagov/govuk-design-system",
+      "stargazerCount": 210
+    },
+    "as": {
+      "nameWithOwner": "helpscout/seed-framework",
+      "stargazerCount": 35
+    },
+    "at": {
+      "nameWithOwner": "grommet/grommet",
+      "stargazerCount": 7223
+    },
+    "au": {
+      "nameWithOwner": "HubSpot/canvas",
+      "stargazerCount": 27
+    },
+    "av": {
+      "nameWithOwner": "carbon-design-system/carbon",
+      "stargazerCount": 4252
+    },
+    "aw": {
+      "nameWithOwner": "JetBrains/ring-ui",
+      "stargazerCount": 2640
+    },
+    "ax": {
+      "nameWithOwner": "kalohq/ui",
+      "stargazerCount": 24
+    },
+    "ay": {
+      "nameWithOwner": "kiwicom/orbit",
+      "stargazerCount": 797
+    },
+    "az": {
+      "nameWithOwner": "skbkontur/retail-ui",
+      "stargazerCount": 193
+    },
+    "ba": {
+      "nameWithOwner": "flexport/latitude",
+      "stargazerCount": 14
+    },
+    "bb": {
+      "nameWithOwner": "lonelyplanet/rizzo",
+      "stargazerCount": 731
+    },
+    "bc": {
+      "nameWithOwner": "mesosphere/cnvs",
+      "stargazerCount": 29
+    },
+    "bd": {
+      "nameWithOwner": "microsoft/fluentui",
+      "stargazerCount": 11304
+    },
+    "be": {
+      "nameWithOwner": "mongodb/design",
+      "stargazerCount": 19
+    },
+    "bf": {
+      "nameWithOwner": "bruffridge/nasawds",
+      "stargazerCount": 44
+    },
+    "bg": {
+      "nameWithOwner": "microsoft/fluentui",
+      "stargazerCount": 11304
+    },
+    "bh": {
+      "nameWithOwner": "Pearson-Higher-Ed/design",
+      "stargazerCount": 8
+    },
+    "bi": {
+      "nameWithOwner": "pinterest/gestalt",
+      "stargazerCount": 3781
+    },
+    "bj": {
+      "nameWithOwner": "pivotal-cf/pivotal-ui",
+      "stargazerCount": 638
+    },
+    "bk": {
+      "nameWithOwner": "pluralsight/design-system",
+      "stargazerCount": 229
+    },
+    "bl": {
+      "nameWithOwner": "priceline/design-system",
+      "stargazerCount": 617
+    },
+    "bm": {
+      "nameWithOwner": "heartbeatua/Pulse-Boilerplate",
+      "stargazerCount": 93
+    },
+    "bn": {
+      "nameWithOwner": "pusher/chameleon",
+      "stargazerCount": 35
+    },
+    "bo": {
+      "nameWithOwner": "radix-ui/design-system",
+      "stargazerCount": 721
+    },
+    "bp": {
+      "nameWithOwner": "rambler-digital-solutions/rambler-ui",
+      "stargazerCount": 179
+    },
+    "bq": {
+      "nameWithOwner": "balena-io-modules/rendition",
+      "stargazerCount": 178
+    },
+    "br": {
+      "nameWithOwner": "salesforce-ux/design-system",
+      "stargazerCount": 3092
+    },
+    "bs": {
+      "nameWithOwner": "SAP/fundamental",
+      "stargazerCount": 238
+    },
+    "bt": {
+      "nameWithOwner": "SAP/openui5",
+      "stargazerCount": 2391
+    },
+    "bu": {
+      "nameWithOwner": "seek-oss/seek-style-guide",
+      "stargazerCount": 303
+    },
+    "bv": {
+      "nameWithOwner": "semrush/intergalactic",
+      "stargazerCount": 34
+    },
+    "bw": {
+      "nameWithOwner": "Shopify/polaris-react",
+      "stargazerCount": 4032
+    },
+    "bx": {
+      "nameWithOwner": "StackExchange/Stacks",
+      "stargazerCount": 321
+    },
+    "by": {
+      "nameWithOwner": "sky-uk/toolkit",
+      "stargazerCount": 127
+    },
+    "bz": {
+      "nameWithOwner": "unimelb/unimelb-design-system",
+      "stargazerCount": 31
+    },
+    "ca": {
+      "nameWithOwner": "thumbtack/thumbprint",
+      "stargazerCount": 164
+    },
+    "cb": {
+      "nameWithOwner": "twilio-labs/paste",
+      "stargazerCount": 133
+    },
+    "cc": {
+      "nameWithOwner": "uber/baseweb",
+      "stargazerCount": 6337
+    },
+    "cd": {
+      "nameWithOwner": "canonical-web-and-design/vanilla-framework",
+      "stargazerCount": 484
+    },
+    "ce": {
+      "nameWithOwner": "USPTO/designpatterns",
+      "stargazerCount": 240
+    },
+    "cf": {
+      "nameWithOwner": "uswitch/ustyle",
+      "stargazerCount": 18
+    },
+    "cg": {
+      "nameWithOwner": "uswds/uswds",
+      "stargazerCount": 5771
+    },
+    "ch": {
+      "nameWithOwner": "vmware/clarity",
+      "stargazerCount": 6226
+    },
+    "ci": {
+      "nameWithOwner": "vtex/styleguide",
+      "stargazerCount": 139
+    },
+    "cj": {
+      "nameWithOwner": "viljamis/vue-design-system",
+      "stargazerCount": 2000
+    },
+    "ck": {
+      "nameWithOwner": "wework/ray",
+      "stargazerCount": 54
+    },
+    "cl": {
+      "nameWithOwner": "WTTJ/welcome-ui",
+      "stargazerCount": 276
+    },
+    "cm": {
+      "nameWithOwner": "wmcadigital/wmn-design-system",
+      "stargazerCount": 3
+    },
+    "cn": {
+      "nameWithOwner": "Workday/canvas-kit",
+      "stargazerCount": 157
+    },
+    "co": {
+      "nameWithOwner": "Gympass/yoga",
+      "stargazerCount": 125
+    }
+  }
+}

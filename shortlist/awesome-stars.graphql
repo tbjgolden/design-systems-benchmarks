@@ -1,0 +1,374 @@
+query {
+  a: repository(owner: "adobe", name: "react-spectrum") {
+    nameWithOwner
+    stargazerCount
+  }
+  b: repository(owner: "alfa-laboratory", name: "arui-feather") {
+    nameWithOwner
+    stargazerCount
+  }
+  c: repository(owner: "ant-design", name: "ant-design") {
+    nameWithOwner
+    stargazerCount
+  }
+  d: repository(owner: "appearhere", name: "bloom") {
+    nameWithOwner
+    stargazerCount
+  }
+  e: repository(owner: "aragon", name: "aragon-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  f: repository(owner: "artsy", name: "palette") {
+    nameWithOwner
+    stargazerCount
+  }
+  g: repository(owner: "RocketCommunicationsInc", name: "astro-components") {
+    nameWithOwner
+    stargazerCount
+  }
+  h: repository(owner: "at-ui", name: "at-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  i: repository(owner: "audi", name: "audi-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  j: repository(owner: "gctools-outilsgc", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  k: repository(owner: "govau", name: "design-system-components") {
+    nameWithOwner
+    stargazerCount
+  }
+  l: repository(owner: "autoguru-au", name: "overdrive") {
+    nameWithOwner
+    stargazerCount
+  }
+  m: repository(owner: "skyscanner", name: "backpack") {
+    nameWithOwner
+    stargazerCount
+  }
+  n: repository(owner: "barnardos", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  o: repository(owner: "moroshko", name: "basis") {
+    nameWithOwner
+    stargazerCount
+  }
+  p: repository(owner: "takenet", name: "blip-toolkit") {
+    nameWithOwner
+    stargazerCount
+  }
+  q: repository(owner: "laboratoriobridge", name: "bold") {
+    nameWithOwner
+    stargazerCount
+  }
+  r: repository(owner: "palantir", name: "blueprint") {
+    nameWithOwner
+    stargazerCount
+  }
+  s: repository(owner: "seek-oss", name: "braid-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  t: repository(owner: "buildit", name: "gravity-ui-web") {
+    nameWithOwner
+    stargazerCount
+  }
+  u: repository(owner: "buzzfeed", name: "solid") {
+    nameWithOwner
+    stargazerCount
+  }
+  v: repository(owner: "bumbag", name: "bumbag-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  w: repository(owner: "eBay", name: "skin") {
+    nameWithOwner
+    stargazerCount
+  }
+  x: repository(owner: "enigma-io", name: "boundless") {
+    nameWithOwner
+    stargazerCount
+  }
+  y: repository(owner: "mineral-ui", name: "mineral-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  z: repository(owner: "opensource-cards", name: "binary-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  aa: repository(owner: "rei", name: "rei-cedar") {
+    nameWithOwner
+    stargazerCount
+  }
+  ab: repository(owner: "chakra-ui", name: "chakra-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ac: repository(owner: "cloudflare", name: "cf-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ad: repository(owner: "CityOfBoston", name: "digital") {
+    nameWithOwner
+    stargazerCount
+  }
+  ae: repository(owner: "coopdigital", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  af: repository(owner: "contentful", name: "forma-36") {
+    nameWithOwner
+    stargazerCount
+  }
+  ag: repository(owner: "decathlon", name: "vitamin-web") {
+    nameWithOwner
+    stargazerCount
+  }
+  ah: repository(owner: "decentraland", name: "ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ai: repository(owner: "elastic", name: "eui") {
+    nameWithOwner
+    stargazerCount
+  }
+  aj: repository(owner: "segmentio", name: "evergreen") {
+    nameWithOwner
+    stargazerCount
+  }
+  ak: repository(owner: "lessmess-dev", name: "figma-ui-components") {
+    nameWithOwner
+    stargazerCount
+  }
+  al: repository(owner: "Financial-Times", name: "origami") {
+    nameWithOwner
+    stargazerCount
+  }
+  am: repository(owner: "fusionfabric", name: "finastra-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  an: repository(owner: "FirefoxUX", name: "photon") {
+    nameWithOwner
+    stargazerCount
+  }
+  ao: repository(owner: "bloombergindustry", name: "fishtank-vue") {
+    nameWithOwner
+    stargazerCount
+  }
+  ap: repository(owner: "primer", name: "css") {
+    nameWithOwner
+    stargazerCount
+  }
+  aq: repository(owner: "material-components", name: "material-components") {
+    nameWithOwner
+    stargazerCount
+  }
+  ar: repository(owner: "alphagov", name: "govuk-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  as: repository(owner: "helpscout", name: "seed-framework") {
+    nameWithOwner
+    stargazerCount
+  }
+  at: repository(owner: "grommet", name: "grommet") {
+    nameWithOwner
+    stargazerCount
+  }
+  au: repository(owner: "HubSpot", name: "canvas") {
+    nameWithOwner
+    stargazerCount
+  }
+  av: repository(owner: "carbon-design-system", name: "carbon") {
+    nameWithOwner
+    stargazerCount
+  }
+  aw: repository(owner: "JetBrains", name: "ring-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ax: repository(owner: "kalohq", name: "ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ay: repository(owner: "kiwicom", name: "orbit-components") {
+    nameWithOwner
+    stargazerCount
+  }
+  az: repository(owner: "skbkontur", name: "retail-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  ba: repository(owner: "flexport", name: "latitude") {
+    nameWithOwner
+    stargazerCount
+  }
+  bb: repository(owner: "lonelyplanet", name: "rizzo") {
+    nameWithOwner
+    stargazerCount
+  }
+  bc: repository(owner: "mesosphere", name: "cnvs") {
+    nameWithOwner
+    stargazerCount
+  }
+  bd: repository(owner: "microsoft", name: "fluentui") {
+    nameWithOwner
+    stargazerCount
+  }
+  be: repository(owner: "mongodb", name: "design") {
+    nameWithOwner
+    stargazerCount
+  }
+  bf: repository(owner: "nasa", name: "nasawds") {
+    nameWithOwner
+    stargazerCount
+  }
+  bg: repository(owner: "OfficeDev", name: "office-ui-fabric-react") {
+    nameWithOwner
+    stargazerCount
+  }
+  bh: repository(owner: "Pearson-Higher-Ed", name: "design") {
+    nameWithOwner
+    stargazerCount
+  }
+  bi: repository(owner: "pinterest", name: "gestalt") {
+    nameWithOwner
+    stargazerCount
+  }
+  bj: repository(owner: "pivotal-cf", name: "pivotal-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  bk: repository(owner: "pluralsight", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  bl: repository(owner: "priceline", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  bm: repository(owner: "heartbeatua", name: "Pulse-Boilerplate") {
+    nameWithOwner
+    stargazerCount
+  }
+  bn: repository(owner: "pusher", name: "chameleon") {
+    nameWithOwner
+    stargazerCount
+  }
+  bo: repository(owner: "modulz", name: "radix") {
+    nameWithOwner
+    stargazerCount
+  }
+  bp: repository(owner: "rambler-digital-solutions", name: "rambler-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  bq: repository(owner: "balena-io-modules", name: "rendition") {
+    nameWithOwner
+    stargazerCount
+  }
+  br: repository(owner: "salesforce-ux", name: "design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  bs: repository(owner: "SAP", name: "fundamental") {
+    nameWithOwner
+    stargazerCount
+  }
+  bt: repository(owner: "SAP", name: "openui5") {
+    nameWithOwner
+    stargazerCount
+  }
+  bu: repository(owner: "seek-oss", name: "seek-style-guide") {
+    nameWithOwner
+    stargazerCount
+  }
+  bv: repository(owner: "semrush", name: "intergalactic") {
+    nameWithOwner
+    stargazerCount
+  }
+  bw: repository(owner: "Shopify", name: "polaris") {
+    nameWithOwner
+    stargazerCount
+  }
+  bx: repository(owner: "StackExchange", name: "Stacks") {
+    nameWithOwner
+    stargazerCount
+  }
+  by: repository(owner: "sky-uk", name: "toolkit") {
+    nameWithOwner
+    stargazerCount
+  }
+  bz: repository(owner: "unimelb", name: "unimelb-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  ca: repository(owner: "thumbtack", name: "thumbprint") {
+    nameWithOwner
+    stargazerCount
+  }
+  cb: repository(owner: "twilio-labs", name: "paste") {
+    nameWithOwner
+    stargazerCount
+  }
+  cc: repository(owner: "uber-web", name: "baseui") {
+    nameWithOwner
+    stargazerCount
+  }
+  cd: repository(owner: "canonical-web-and-design", name: "vanilla-framework") {
+    nameWithOwner
+    stargazerCount
+  }
+  ce: repository(owner: "uspto", name: "designpatterns") {
+    nameWithOwner
+    stargazerCount
+  }
+  cf: repository(owner: "uswitch", name: "ustyle") {
+    nameWithOwner
+    stargazerCount
+  }
+  cg: repository(owner: "uswds", name: "uswds") {
+    nameWithOwner
+    stargazerCount
+  }
+  ch: repository(owner: "vmware", name: "clarity") {
+    nameWithOwner
+    stargazerCount
+  }
+  ci: repository(owner: "vtex", name: "styleguide") {
+    nameWithOwner
+    stargazerCount
+  }
+  cj: repository(owner: "viljamis", name: "vue-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  ck: repository(owner: "wework", name: "ray") {
+    nameWithOwner
+    stargazerCount
+  }
+  cl: repository(owner: "WTTJ", name: "welcome-ui") {
+    nameWithOwner
+    stargazerCount
+  }
+  cm: repository(owner: "wmcadigital", name: "wmn-design-system") {
+    nameWithOwner
+    stargazerCount
+  }
+  cn: repository(owner: "Workday", name: "canvas-kit") {
+    nameWithOwner
+    stargazerCount
+  }
+  co: repository(owner: "gympass", name: "yoga") {
+    nameWithOwner
+    stargazerCount
+  }
+}
